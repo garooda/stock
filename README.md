@@ -1,3 +1,3 @@
 # stock
 
-![logo]("/images/logo.png")
+![logo](/images/logo.png)
