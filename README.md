@@ -24,4 +24,12 @@ Stock a simple python script for the alert who trade in stocks. It is made using
 pip install -r requirements.txt
 ```
 
-Get your API keys for the stock market and news from [aplhavantage](https://www.alphavantage.co/) and [newsapi](https://newsapi.org/).
+Get your API keys for the stock market and news from [aplhavantage](https://www.alphavantage.co/) and [newsapi](https://newsapi.org/) respectively.
+
+### Usage
+
+python app.py
+
+### Demo
+
+![demo](/images/demo.jpg)
