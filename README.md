@@ -8,6 +8,12 @@ Stock a simple python script for the alert who trade in stocks. It is made using
 
 ## Table of contents
 
-- Libraries used
-- Installation
-- Usage
+- [Libraries used](#Libraries-used)
+- [Installation](#Installation)
+- [Usage](#Usage)
+
+### Libraries used
+
+- [requests](https://pypi.org/project/requests/) - A python library for requesting the resource from server. The communication protocol which takes place in this process HTTP same as in browser.
+
+- [twilio](https://www.twilio.com/)
