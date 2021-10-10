@@ -26,6 +26,8 @@ Stock a simple python script for the alert who trade in stocks. It is made using
 git clone https://github.com/garooda/stock.git
 ```
 
+**Install the requirements**
+
 ```bash
 pip install -r requirements.txt
 ```
